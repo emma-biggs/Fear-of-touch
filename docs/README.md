@@ -8,10 +8,10 @@ For organizations in MedTech, Insurance, and high-stress UX design, business fri
 
 ## The "Hidden Tax" of Unpredictability
 
-The research demonstrates that fear is not just triggered by a specific painful event (Cued Fear), but by the context in which it occurs.
+The research demonstrates that fear of touch is not just triggered by a specific painful event (Cued Fear), but by the context in which it occurs.
 
 * **Contextual Anxiety**: When pain is unpredictable, the entire environment—rather than a single stimulus—triggers a chronic anticipatory anxious state.
-* **Spill-over Effects**: Fear from an unpredictable context "spills over" to safe, innocuous touches, causing users or patients to fear interactions that have never actually caused them harm.
+* **Spill-over Effects**: Fear from an unpredictable context "spills over" to safe, non-painful touches, causing users or patients to fear interactions that have never actually caused them harm.
 
 
 
