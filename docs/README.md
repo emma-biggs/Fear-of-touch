@@ -4,9 +4,17 @@ icon: briefcase
 
 # Executive Summary
 
+## Mechanisms of Tactile Fear Acquisition and Extinction: A Novel Paradigm for Modeling Allodynia and Spontaneous Pain
+
+{% hint style="info" %}
+**Strategic Focus:** Bio-behavioral Mechanism Mapping, Conditioned Fear-Avoidance, Sensory Modulation, Bayesian Predictive Modeling
+
+**Project Lead:** Emma Biggs (emma@emmabiggs.com)
+{% endhint %}
+
 For organizations in MedTech, Insurance, and high-stress UX design, business friction is often driven by a biological imperative: **Fear-Avoidance**. My research identifies how non-painful tactile interactions—touching a device, moving a limb, or navigating an interface—can become "threat signals" through associative learning. By modeling the neurological mechanisms of Allodynia (pain from non-painful touch) and Spontaneous Pain (unpredictable fluctuations), this work provides a blueprint for mitigating avoidance behaviors that drive churn and disability.
 
-## The "Hidden Tax" of Unpredictability
+### The "Hidden Tax" of Unpredictability
 
 The research demonstrates that fear of touch is not just triggered by a specific painful event (Cued Fear), but by the context in which it occurs.
 
@@ -15,7 +23,7 @@ The research demonstrates that fear of touch is not just triggered by a specific
 
 
 
-## Strategic Interventions: The Extinction Advantage
+### Strategic Interventions: The Extinction Advantage
 
 The study shows that these conditioned fears can be systematically dismantled through targeted exposure protocols.
 
